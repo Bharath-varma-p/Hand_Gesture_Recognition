@@ -1,4 +1,4 @@
-# Sign Language Detector
+# Hand_Gesture_Recognition
 A simple CNN project for detecting american sign language.
 Here, I have implemented CNN (Convolution Neural Network) using Keras.
 
@@ -24,9 +24,15 @@ Here, I have implemented CNN (Convolution Neural Network) using Keras.
     ```
     python capture.py
     ```
+# About the project
+This project is to solve the basic communication Problem between Deaf-mute and Normal Person,(Each gesture in sign language means a specific meaning.)
+
+This Project provides us with a user friendly way of communication with the computer which is more familiar to human beings
+This Project is built using CNN - (convolutional neural network) for 
+recognition(taining), 
+The Programming Language used in this project is Python
 
 
 
 
 
-# Hand_Gesture_Recognition
