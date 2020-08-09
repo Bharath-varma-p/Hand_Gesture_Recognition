@@ -1,3 +1,8 @@
+"""
+Created on Sat Aug  1 10:43:08 2020
+
+@author: Bharath varma
+"""
 # Part 1 - Building the CNN
 #importing the Keras libraries and packages
 from keras.models import Sequential
